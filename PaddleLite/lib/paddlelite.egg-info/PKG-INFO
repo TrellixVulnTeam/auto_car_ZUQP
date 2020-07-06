@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: paddlelite
+Version: 0.0.1
+Summary: Python API project for EdgeBoard with PaddleMobile using pybind11 and CMake
+Home-page: UNKNOWN
+Author: Jesse Qu
+Author-email: quchunyu@baidu.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN

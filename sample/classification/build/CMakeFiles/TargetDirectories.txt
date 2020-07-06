@@ -1,0 +1,4 @@
+/home/root/workspace/sample/classification/build/CMakeFiles/rebuild_cache.dir
+/home/root/workspace/sample/classification/build/CMakeFiles/edit_cache.dir
+/home/root/workspace/sample/classification/build/CMakeFiles/image_classify.dir
+/home/root/workspace/sample/classification/build/CMakeFiles/video_classify.dir

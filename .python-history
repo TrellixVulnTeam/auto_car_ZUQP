@@ -1,0 +1,6 @@
+set args ../configs/resnet50_cat/cat.json
+r
+bt
+q
+import paddlemobile as pm
+import paddlemobile

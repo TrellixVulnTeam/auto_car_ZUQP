@@ -1,0 +1,11 @@
+{
+	"model":"../models/Inceptionv3",
+	"combined_model":true,
+	"labels":"../models/Inceptionv3/label_list.txt",
+	"input_width":299,
+	"input_height":299,
+	"image":"../models/Inceptionv3/zebra.jpg",
+	"mean":[128,128,128],
+	"scale":0.0078125,
+	"format":"BGR"
+}

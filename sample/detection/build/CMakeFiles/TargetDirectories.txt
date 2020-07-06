@@ -1,0 +1,4 @@
+/home/root/workspace/sample/detection/build/CMakeFiles/edit_cache.dir
+/home/root/workspace/sample/detection/build/CMakeFiles/rebuild_cache.dir
+/home/root/workspace/sample/detection/build/CMakeFiles/image_detection.dir
+/home/root/workspace/sample/detection/build/CMakeFiles/video_detection.dir
